@@ -1,3 +1,9 @@
+/*
+
+@Author : BuketYelken
+
+ */
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -17,7 +23,6 @@ public class RegisterForm extends JFrame {
         this.pack();
 
         Database db = new Database();
-
 
         registerButton.addActionListener(new ActionListener() {
             @Override

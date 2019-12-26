@@ -2,51 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1c0ff3c-6e2e-4d23-9d80-e059c0b6bb3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddBookForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddBookForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddBookForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddBookForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddUser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddUser$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AddUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/AdminForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Author.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Book.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/IBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/IBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ISearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Issue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Issue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Librarian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/LoginForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/LoginForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/LoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/LoginForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/RegisterForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/RegisterForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/RegisterForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/RegisterForm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/UserForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/UserForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewBooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewBooksUserForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kutuphaneOtomasyonu/ViewBooksUserForm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBookForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddBookForm.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AddBookForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddBookForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddUser.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddUser.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdminForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdminForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ISearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Issue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Librarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IssueForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IssueForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegisterForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegisterForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ViewBooks.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewBooks.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ViewBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ViewUsers.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewUsers.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewBooksUserForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewBooksUserForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewBooksUserForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewBooksUserForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewIssuedBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewIssuedBooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ViewUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewUsers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,26 +141,26 @@
     </state>
     <state x="473" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577228274183" />
     <state x="591" y="199" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1577385645835" />
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1577386453070">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1577389314323">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577384947029" />
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1577386453070" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1577386453069">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1577389314323" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1577389314323">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577384947029" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1577386453069" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1577386453068">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1577389314323" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1577389314322">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577384947029" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1577386453068" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1577386453070">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1577389314322" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1577389314323">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577384947029" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1577386453069" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1577389314323" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1577197225585">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -201,6 +182,10 @@
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577228280474" />
     <state x="311" y="0" key="SettingsEditor/0.0.1920.1035@0.0.1920.1035" timestamp="1577385650217" />
+    <state x="752" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577389656802">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="752" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1577389656802" />
     <state x="578" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577299434697">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

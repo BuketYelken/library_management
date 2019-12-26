@@ -1,10 +1,16 @@
+/*
+
+@Author : BuketYelken
+
+ */
+
 public abstract class Account extends Person {
 
     private String password;
     private String role;
 
     public Account(String name, String surname, String password, String identifyNumber, String role) {
-        super(name, surname, identifyNumber);
+        super(name, surname, identifyNumber); // bir üst classın verilerini aldık super ile
         this.password = password;
         this.role = role;
     }

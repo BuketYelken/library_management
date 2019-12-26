@@ -1,3 +1,9 @@
+/*
+
+@Author : BuketYelken
+
+ */
+
 public class Author extends Person {
     private int age;
 

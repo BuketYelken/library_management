@@ -3,6 +3,9 @@ import javax.swing.table.DefaultTableModel;
 import java.sql.*;
 import java.util.Vector;
 
+/*
+@Author : Buket Yelken
+ */
 public class Database implements IBook, IUser{
     private Connection con = null;
     public Statement stat = null;
@@ -194,14 +197,15 @@ public class Database implements IBook, IUser{
         }
     }
 
-
     @Override
     public String[] searchByIdentify(String identifyNo) {
         connect();
         try{
-            String query = "SELECT * FROM users WHERE identif_number="+identifyNo;
-            rs = stat.executeQuery(query);
-            while(rs.next()){
+            String query = "SELECT * FROM users WHERE identif_number="+identifyNo; //identfy numarasını arıyor kullanıcılarda
+            rs = stat.executeQuery(query); //sorgu yapıyor
+            while(rs.next()){ // veri olduğu sürece devam et
+
+                // verileri alıp diziye atıyor
                 String firstName = rs.getString("first_name");
                 String lastName = rs.getString("last_name");
                 String password = rs.getString("password");
@@ -216,7 +220,8 @@ public class Database implements IBook, IUser{
         }catch(SQLException e){
             e.printStackTrace();
         }
-    return datas;
+        // array return ediliyor
+        return datas;
     }
 
     public void removeUser(String identifNum) {

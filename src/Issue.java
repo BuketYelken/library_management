@@ -1,3 +1,6 @@
+/*
+@Author : Buket Yelken
+ */
 public class Issue {
 
     private String bookName;

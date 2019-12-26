@@ -1,3 +1,8 @@
+/*
+
+@Author : BuketYelken
+
+ */
 import javax.swing.*;
 import javax.swing.text.View;
 import java.awt.event.ActionEvent;

@@ -1,3 +1,9 @@
+/*
+
+@Author : BuketYelken
+
+ */
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -28,6 +34,8 @@ public class UserForm extends JFrame{
         });
     }
 
+
+    //formlar arası geçiş sağlayan kod
 
     public static synchronized UserForm getInstance(){
         try {
