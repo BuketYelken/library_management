@@ -237,6 +237,25 @@ public class Database implements IBook, IUser{
         }
     }
 
+    @Override
+    public void updateBook(String newBookName, String newAuthorName, String newPublisher, String newIsbn) {
+        connect();
+        try{
+            // Kitabın isbn numarası ile bulunup istenilen veriler update ediliyor
+            String query = "UPDATE books SET bookName=?, authorName=?, publisher=? WHERE ISBN=?";
+            PreparedStatement preparedStmt = con.prepareStatement(query);
+            preparedStmt.setString(1, newBookName);
+            preparedStmt.setString(2, newAuthorName);
+            preparedStmt.setString(3, newPublisher);
+            preparedStmt.setString(4, newIsbn);
+
+            preparedStmt.executeUpdate();
+            con.close();
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+    }
+
     public void closeDb(){
         try{
             con.close();

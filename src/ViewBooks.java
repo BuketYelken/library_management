@@ -13,6 +13,7 @@ public class ViewBooks extends JFrame {
     private JPanel viewBooksPanel;
     private JTable booksTable;
     private JButton deleteBookButton;
+    private JButton updateBookButton;
 
     ViewBooks(){
         super("View Books");
@@ -32,6 +33,13 @@ public class ViewBooks extends JFrame {
                 bookDataModel.setRowCount(0);
                 bookDataModel.setColumnCount(0);
                 booksTable.setModel(db.viewBooks(bookDataModel));
+            }
+        });
+        updateBookButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                UpdateBookForm updateBookForm = new UpdateBookForm();
+                updateBookForm.setVisible(true);
             }
         });
     }
